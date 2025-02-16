@@ -4,7 +4,6 @@ A simple system tray application that automatically synchronizes Windows time. F
 - Manual time synchronization
 - Automatic synchronization every minute
 - System tray interface with start/stop functionality
-- Administrator privileges handling
 - System tray notifications for sync status
 
 ## Requirements
